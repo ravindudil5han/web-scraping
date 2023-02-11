@@ -1,5 +1,7 @@
 # WEB SCRAPER
 
+#### Description about scraper
+
 This script uses the puppeteer library to launch a headless Chrome browser, which means that the browser will run in the background without any graphical user interface. Once the browser is launched, the script creates a new page in the browser and navigates to the URL specified in the URL variable.
 
 The script then uses the cheerio library to load the HTML content of the page and parse it, so that it can extract specific information from the page. In this script, it extracts the text of the first H1 element on the page.
