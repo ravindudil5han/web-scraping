@@ -1,4 +1,4 @@
-#WEB SCRAPER
+# WEB SCRAPER
 
 This script uses the puppeteer library to launch a headless Chrome browser, which means that the browser will run in the background without any graphical user interface. Once the browser is launched, the script creates a new page in the browser and navigates to the URL specified in the URL variable.
 
